@@ -1,3 +1,3 @@
 def percentage(value, percent):
     """Return percent of value."""
-    return value * percent
+    return value * percent / 100
